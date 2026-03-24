@@ -1,0 +1,15 @@
+title: OpenClaw API Documentation
+description: API integration guide for OpenClaw Agent
+theme: minima
+
+# GitHub Pages configuration for security research
+# This repository is used for academic research on LLM Agent security
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - DEPLOY.md
+  - .gitignore
