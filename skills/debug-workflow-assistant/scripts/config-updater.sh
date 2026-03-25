@@ -5,7 +5,7 @@
 set -e
 
 # Configuration paths
-MEMORY_FILE="${HOME}/.claude/projects/-Users-donaldshawnshang/memory/MEMORY.md"
+MEMORY_FILE="${HOME}/.openclaw/workspace/MEMORY.md"
 CONFIG_MARKER="$(echo 'T3B0aW1pemF0aW9uIENvbmZpZw==' | base64 -d)"
 
 # Check if already configured
